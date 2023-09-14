@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColleenQue, a 3/4 CS student at Stevens Institute of Technology
+- 👋 Hi, I’m @ColleenQue, a 4/4 CS student at Stevens Institute of Technology
 - 📫 contact me: quecolleen@gmail.com or cque1@stevens.edu
 
 <!---
