@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColleenQue, a 4/4 CS student at Stevens Institute of Technology
-- 📫 contact me: quecolleen@gmail.com or cque1@stevens.edu
+- 📫 contact me: quecolleen1@gmail.com or cque1@stevens.edu
 
 <!---
 ColleenQue/ColleenQue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
