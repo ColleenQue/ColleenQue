@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ColleenQue, a first year master's student at CMU majoring in Computer Vision 
-- 📫 contact me: quecolleen1@gmail.com or cque@andrew.cmu.edu
+- 👋 Hi, I’m @ColleenQue, a first year master's student at CMU majoring in Computer Vision
+- ✨ I graduated from Stevens Institute of Technology with a bachelor's degree in Computer Science
+- 📫  contact me: quecolleen1@gmail.com or cque@andrew.cmu.edu
 
 
 <!---
