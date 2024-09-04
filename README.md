@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ColleenQue, a 4/4 CS student at Stevens Institute of Technology
-- 📫 contact me: quecolleen1@gmail.com or cque1@stevens.edu
+- 👋 Hi, I’m @ColleenQue, a first year master's student at CMU majoring in Computer Vision 
+- 📫 contact me: quecolleen1@gmail.com or cque@andrew.cmu.edu
 
 
 <!---
