@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColleenQue, currently a software engineer at Meta. 
-- 🎓 I graduated from Carnegie Mellon University with a master's degree, majoring in Computer Vision in 2025, and Stevens Institute of Technology with a bachelor's degree in Computer Science in May 2024. 
+- 🎓 I graduated from Carnegie Mellon University with a master's degree in 2025, majoring in Computer Vision, and Stevens Institute of Technology with a bachelor's degree in Computer Science in May 2024. 
 - 📫  contact me: quecolleen1@gmail.com 
   
 
